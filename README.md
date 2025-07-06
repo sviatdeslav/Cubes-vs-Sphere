@@ -6,6 +6,6 @@
 
 ![image](https://github.com/user-attachments/assets/41c97696-c960-41d4-82b0-0306f6bed30d)
 
-Ссылка на готовую игру для Windows и Linux: https://drive.google.com/drive/folders/1T1PuI3wgnHSrkGKbK70IjMM2Zb3eGtB6?usp=drive_link
+Ссылка на готовую игру для Windows и Linux, а также на проект Godot: https://drive.google.com/drive/folders/1T1PuI3wgnHSrkGKbK70IjMM2Zb3eGtB6?usp=drive_link
 
-Проект Godot и коды используемых программ на GDScript лежат в этом репозитории
+Коды используемых программ на GDScript лежат в этом репозитории
